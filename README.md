@@ -17,7 +17,7 @@ I love building stuff and exploring these fields:
 
 ### Find more about me on the Web 🌎:
 
-- You can visit my <a href="https://riccardogiorato.com/garden">Digital Garden.</a> 📹 ✍🏾
+- You can visit my <a href="https://riccardogiorato.com/blog">Blog.</a> 📹 ✍🏾
 
 - Look at my newest <a href="https://riccardogiorato.com/projects">Projects.</a> 🚀
 
