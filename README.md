@@ -9,10 +9,12 @@
 I love building stuff and exploring these fields:
 
 - JAMStack, Serverless
-- Development and Automation
-- Virtual and Augmented Reality
-- Photogrammetry - 3D models from photos
-- Minimalist Life and Minimalism
+- Remote Work
+- Minimalism on all things
+- Fitness and Health stuff
+- Cooking and Food made easy
+- Technology Innovations
+- Crypto Mining
 - Sci-Fi stuff and Futuristic stuff
 
 ### Find more about me on the Web 🌎:
