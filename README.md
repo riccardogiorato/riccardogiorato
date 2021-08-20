@@ -6,17 +6,6 @@
 
 ### **🏄 Free Time: XR Developer and Photogrammetry Artist!**
 
-I love building stuff and exploring these fields:
-
-- JAMStack, Serverless
-- Remote Work
-- Minimalism on all things
-- Fitness and Health stuff
-- Cooking and Food made easy
-- Technology Innovations
-- Crypto Mining
-- Sci-Fi stuff and Futuristic stuff
-
 ### Find more about me on the Web 🌎:
 
 - You can visit my <a href="https://riccardogiorato.com/blog">Blog.</a> 📹 ✍🏾
