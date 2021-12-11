@@ -1,15 +1,31 @@
-### Hi, I'm Riccardo 👋
+<h3><img src="hi.gif" width="30px"> Hi, there!</h3>
 
-<img src="https://raw.githubusercontent.com/riccardogiorato/riccardogiorato/master/github_cover_01.jpg" alt="banner that says Riccardo Giorato from Italy - software engineer, content creator working with JAMStack, React, NextJs and Prisma">
+I'm Riccardo Giorato.
 
-### **💼 9to5: React/JAMStack Developer.**
+I'm a Software Engineer, Mentor and Content Creator from Italy.
 
-### **🏄 Free Time: XR Developer and Photogrammetry Artist!**
+* Fullstack Engineer at [Amusi](https://www.amusi.it).
+* [Mentor](https://mentomento.riccardogiorato.com/) - I have been mentoring more than 20 software engineer from around the world with [MentoMento](https://mentomento.riccardogiorato.com/).
+* [Cypress-for-Everything](https://github.com/riccardogiorato/cypress-for-everything) - I'm coding tutorials and examples on complex end to end tests with [Cypress](https://github.com/riccardogiorato/cypress-for-everything).
+* [Blogger](https://riccardogiorato.com/blog) - I write about programming, technology, remote work, and other stuff on my [blog](https://riccardogiorato.com/blog) and also on [Medium](https://medium.com/@riccardogiorato).
 
-### Find more about me on the Web 🌎:
+### Skills
 
-- You can visit my <a href="https://riccardogiorato.com/blog">Blog.</a> 📹 ✍🏾
+* **Frontend:** React, NextJS, Typescript, TailwindCss, Emotion, Storybook. 
+* **Backend:** GraphQL, Prisma, PostgreSQL, SanityCMS, Serverless Functions.
+* **Cloud and IaC:** Vercel, Netlify and AWS CDK with AWS.
+ 
+### What I believe most
 
-- Look at my newest <a href="https://riccardogiorato.com/projects">Projects.</a> 🚀
+1. Team Happiness: always focus on increasing happiness of my colleagues to improve Team iteration speed.
+2. Automate the boring stuff: automate the boring stuff.
+3. Cache + CDN: just do the work once and then cache it globablly in any CDN.  
+4. Remote Work: working remotly gives the freedom to move to any place in the world, giving access worldwide to opportunities that were constrained just in SF or other tech hubs in the past.
 
-- See my thoughts on <a href="https://twitter.com/riccardogiorato">Twitter</a> 🐦
+### Get in touch
+
+- Read more <a href="https://riccardogiorato.com/about">"About me"</a>
+
+- LinkedIn: <a href="https://www.linkedin.com/in/riccardo-giorato/">linkedin.com/in/riccardo-giorato</a>
+
+- Twitter: <a href="https://twitter.com/riccardogiorato">@riccardogiorato</a>
