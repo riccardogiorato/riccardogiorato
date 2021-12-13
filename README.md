@@ -30,4 +30,4 @@ I'm a Software Engineer, Mentor and Content Creator from Italy.
 
 - Github: <a href="https://github.com/riccardogiorato/">riccardogiorato</a>
 
-- Twitter: <a href="https://twitter.com/riccardogiorato">@riccardogiorato</a>
+- Twitter: <a href="https://twitter.com/riccardogiorato">riccardogiorato</a>
