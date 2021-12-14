@@ -19,7 +19,7 @@ I'm a Software Engineer, Mentor and Content Creator from Italy.
 
 1. Team Happiness: always focus on increasing happiness of my colleagues to improve Team iteration speed.
 2. Automate the boring stuff: automate the boring stuff.
-3. Cache + CDN: just do the work once and then cache it globablly in any CDN.  
+3. Cache + CDN: just do the work once and then cache it globally in any CDN.  
 4. Remote Work: working remotely gives the freedom to move and explore any place in the world!
 
 ### Get in touch
