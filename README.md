@@ -18,7 +18,7 @@ I'm a Software Engineer, Mentor and Content Creator from Italy.
 ### What do I believe most?
 
 1. Team Happiness: always focus on increasing happiness of my colleagues to improve Team iteration speed.
-2. Automate the boring stuff: automate testing with End to End tests to prevent new bugs.
+2. Automate the boring stuff: automate testing with End to End tests to prevent new bugs and to give people more time to be creative!
 3. Cache and CDN: just do the work once and then cache it globally, saving energy, time, and less pollution!
 4. Speed: make apps/sites faster for anyone in the world from Africa to South East Asia, not only Europe or the US.
 5. Remote Work: working remotely gives the freedom to move and explore any place in the world!
