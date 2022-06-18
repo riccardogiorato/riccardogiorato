@@ -1,4 +1,4 @@
-<h3><img src="https://raw.githubusercontent.com/riccardogiorato/riccardogiorato/master/hi.gif" width="30px"/> Hi, there!</h3>
+<h3><img src="https://raw.githubusercontent.com/riccardogiorato/riccardogiorato/master/hi.gif" width="30"/> Hi, there!</h3>
 
 I'm Riccardo Giorato.
 
