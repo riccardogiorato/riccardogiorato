@@ -4,7 +4,7 @@ I'm Riccardo Giorato.
 
 I'm a Software Engineer, Mentor and Content Creator from Italy.
 
-- Fullstack Engineer at __ .
+- Fullstack Engineer at [teero](https://www.teero.com) .
 - [MentoMento](https://mentomento.riccardogiorato.com/) - I have been [mentoring](https://mentomento.riccardogiorato.com/) online more than 20 software engineer from around the world.
 - [Cypress-for-Everything](https://github.com/riccardogiorato/cypress-for-everything) - I'm coding tutorials and examples on complex end to end tests with [Cypress](https://github.com/riccardogiorato/cypress-for-everything).
 - [Blogger](https://riccardogiorato.com/blog) - I write about programming, technology, remote work, and other stuff on my [blog](https://riccardogiorato.com/blog) and also on [Medium](https://riccardogiorato.medium.com/).
